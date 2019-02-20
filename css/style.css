@@ -1,0 +1,39 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+	background-color:#1087ff;
+	width:100%;
+	height:70px;
+	text-align:center;
+	padding: 5px;
+}
+
+article{
+	float:top;
+	padding-top:50px;
+	padding-bottom:60px;
+}
+
+h1 {
+	color:#fff;
+	text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.imgnav{
+	width:35px;
+	height:35px;
+}
+
+
+#teste{position:relative;top:0}
+#teste:hover{top:-10px;box-shadow:0 4px 4px #999;
+   transition: all .2s ease-in-out}
+
+.img{
+  width: 200px;
+  height: 300px;
+  padding: 2px;
+}
