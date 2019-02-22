@@ -17,6 +17,10 @@ article{
 	padding-bottom:60px;
 }
 
+aside{
+	float:center;
+}
+
 .h1header {
 	color:#fff;
 	text-shadow: black 0.1em 0.1em 0.2em
